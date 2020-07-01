@@ -1,0 +1,118 @@
+body{
+    background: #f7f7f7;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #5e6d66;
+}
+.container{
+    background: white;
+    max-width: 960px;
+    margin: 60px auto;
+    -webkit-box-shadow: 0px 0px 30px 0px #999999;
+    box-shadow: 0px 0px 30px 0px #999999;
+}
+
+
+.site-title strong{
+    font-size:45px;
+    font-family:Verdana,Geneva,sans-serif;	
+    font-weight:normal;		
+    text-transform:none;
+}
+
+table {
+    color: #666666;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+th{
+    background-color: #999999;
+    color: white;
+}
+td,th {
+    border: 2px solid #666666;
+    box-sizing: border-box;
+    padding:10px 50px;
+}
+	
+
+
+.main-content{
+    padding: 30px 30px 30px 30px;
+    overflow: auto;
+    line-height: 30px;
+    
+}
+
+.main-content h1,
+.main-content h2, 
+.main-content h3 {
+    font-family: "Times New Roman", 'Times New Roman', Times, serif;
+    font-weight: normal;
+    color: #a78d8a;
+    text-transform: uppercase;
+}
+
+.main-content h1 {
+    font-size: 36px;
+    text-align: center;
+}
+
+.main-content a {
+    color: #f97171;
+}
+.main-content .cta {
+    color: white;
+    padding: 10px 60px;
+    background-color: #8ad6cc;
+    text-decoration: none;
+    display: block;
+    width: 160px;
+    margin: 30px auto 60px auto;
+    text-align: center;
+}
+.main-content .cta:hover{
+    background-color: #a78d8a;
+}
+footer {
+    background:#ffd4d7;
+    padding: 40 30;
+    overflow: auto;
+}
+footer p {
+    color: white;
+    font-size: 14px;
+    padding-left: 10px;
+}
+footer img{
+    float: right;
+    padding-left: 10px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+.center {
+    text-align: center;
+}
+.floatleft {
+    float: left;
+}
+.floatright {
+    float: right;
+}
+.extrapadding{
+    padding: 0px 60px;
+}
+.paddingbottom{
+    padding-bottom: 40px;
+}
+.leftpadding{
+    padding-left: 145px;
+}
+.photorights{
+    font-size: 12px;
+    color: #A8A7A7;
+}
